@@ -1,5 +1,6 @@
-# CS5530 Databases Project - Social Media Analysis Database
+# CS5330 Databases Project - Social Media Analysis Database
 
+Please see the attached PDF for more detailed information.
 
 ## Development Instructions
 1. Install [Node.JS](https://nodejs.org/en)
